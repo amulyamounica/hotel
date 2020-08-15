@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-<center><h1>Successfully paid</h1></center>
+<center><h1>Successfully paid , Thank you</h1></center>
 </body>
 </html>
